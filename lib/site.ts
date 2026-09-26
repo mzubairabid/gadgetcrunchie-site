@@ -27,6 +27,8 @@ export const TRACKING = {
   googleSiteVerification: "",
   // OPTIONAL. Bing Webmaster Tools > HTML meta tag: only the content="..." value (or just import from GSC)
   bingSiteVerification: "",
+    // When AdSense loads: "interaction" = after first scroll/tap (fastest page), "idle" = shortly after load (more impressions)
+  adsenseLoad: "interaction" as "interaction" | "idle",
 } as const;
 
 /** Logo in the header and footer. Replace public/logo-mark.svg with your own file (same name) or change src. */
