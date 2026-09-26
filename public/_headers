@@ -1,0 +1,9 @@
+# Test copy on *.pages.dev must not be indexed (the real site is gadgetcrunchie.com)
+https://:project.pages.dev/*
+  X-Robots-Tag: noindex
+
+# Share images are saved without a file extension: tell browsers and social apps they are PNGs
+/opengraph-image
+  Content-Type: image/png
+/*/opengraph-image
+  Content-Type: image/png

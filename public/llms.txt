@@ -1,0 +1,19 @@
+# Gadget Crunchie
+
+> Free browser-based calculators for batteries, charging, home energy and screens. Each tool page states its formula, default assumptions, a worked example and FAQs. Maintained by Zubair Abid (MZA Dev). Methodology: https://gadgetcrunchie.com/how-we-calculate/
+
+## Calculators
+- [Power station runtime calculator](https://gadgetcrunchie.com/tools/power-station-runtime-calculator/): hours a portable power station runs given Wh, load W, AC/DC efficiency and reserve.
+- [UPS backup time calculator](https://gadgetcrunchie.com/tools/ups-backup-time-calculator/): inverter battery backup from Ah, V, battery type (lead-acid 50% / lithium 90% usable) and load.
+- [Solar panel size calculator](https://gadgetcrunchie.com/tools/solar-panel-size-calculator/): panel array W and battery kWh from daily Wh, peak sun hours and losses.
+- [Electricity cost calculator](https://gadgetcrunchie.com/tools/electricity-cost-calculator/): cost per day, month and year in any currency.
+- [Power bank airline checker](https://gadgetcrunchie.com/tools/power-bank-airline-checker/): mAh to Wh and the 100 Wh / 160 Wh flight limits.
+- [Power bank charges calculator](https://gadgetcrunchie.com/tools/power-bank-charges-calculator/): realistic number of phone charges.
+- [mAh to Wh converter](https://gadgetcrunchie.com/tools/mah-to-wh-converter/): mAh, Ah and Wh conversions with voltage.
+- [Battery charging time calculator](https://gadgetcrunchie.com/tools/battery-charging-time-calculator/): charge time including the slower last 20%.
+- [Laptop charger wattage checker](https://gadgetcrunchie.com/tools/laptop-charger-wattage-checker/): whether a USB-C charger and cable are enough.
+- [Screen PPI calculator](https://gadgetcrunchie.com/tools/screen-ppi-calculator/): pixel density, size and viewing distance.
+
+## About
+- [About](https://gadgetcrunchie.com/about/)
+- [How we calculate](https://gadgetcrunchie.com/how-we-calculate/)
